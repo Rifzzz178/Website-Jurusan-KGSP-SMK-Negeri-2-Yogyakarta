@@ -1,6 +1,6 @@
 # Website Jurusan KGSP - SMK Negeri 2 Yogyakarta
 
-![Website Preview](images/preview.jpg)
+![Website Preview](images/Screenshot-344.png)
 
 ## Deskripsi
 
